@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "朧谷洸希",
+    "occupation": "古書店主（元作家）",
+    "mbti": "INFJ",
+    "personality": "完璧主義・沈静",
+    "speech_style": "京都弁・一人称「僕」",
+    "love_style": "沈静恋型（情熱＋友情）",
+    "weakness": "盗作被害",
+    "appearance": "ベージュ髪・無造作・細縁眼鏡",
+    "quirks": [
+      "得体の知れない自家製栄養ドリンクを作り出す",
+      "本の匂いでいつの作品か分かる"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "湊由季",
+    "occupation": "小料理屋「湊」店主",
+    "mbti": "ISFJ",
+    "personality": "包容力・頼られると断れない",
+    "speech_style": "包容やわらか口調",
+    "love_style": "献身恋型（アガペ）",
+    "weakness": "元妻に浮気され離婚",
+    "appearance": "清潔感ある服装・黒シャツ・手が温かい",
+    "quirks": [
+      "猫が好きでこっそり野良猫に餌をあげている",
+      "実は柔道有段者"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "響灯弦",
+    "occupation": "ミュージシャン",
+    "mbti": "ENTP",
+    "personality": "軽妙・駆引上手・本気になると逃げ腰",
+    "speech_style": "軽妙駆引口調・丁寧語で紳士的・一人称「俺」",
+    "love_style": "駆引恋型（遊び＋執着）",
+    "weakness": "女性関係",
+    "appearance": "明るい茶髪・黒シャツやジャケット・指や喉仏が色っぽい",
+    "quirks": [
+      "余裕がなくなると部屋が汚くなる",
+      "褒められると一瞬だけ素で照れてから誤魔化す"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "香宮柊弥",
+    "occupation": "調香師（元ブランド専属）",
+    "mbti": "INTP",
+    "personality": "静穏・執着は静かで深い",
+    "speech_style": "静穏丁寧口調",
+    "love_style": "潜在独占型（執着）",
+    "weakness": "女性からストーキングされている",
+    "appearance": "白の襟付きシャツ・ホワイトブリーチの髪",
+    "quirks": [
+      "方向音痴",
+      "地図アプリを見ても逆方向に歩き出す"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "朝霧恒一",
+    "occupation": "鍼灸師",
+    "mbti": "ISTP",
+    "personality": "にこやか・本気になると執着",
+    "speech_style": "優男口調",
+    "love_style": "情熱型（静かに内に秘める）",
+    "weakness": "HSP",
+    "appearance": "黒髪を束ねている",
+    "quirks": [
+      "手のツボを無意識に押している",
+      "動物になつかれる"
+    ]
+  },
+    {
+    "id": 6,
+    "name": "風間陽向",
+    "occupation": "移動カフェ店員",
+    "mbti": "ENFP",
+    "personality": "陽気・笑顔が印象的・人間不信を隠している",
+    "speech_style": "陽気フランク口調",
+    "love_style": "遊び型＋情熱型",
+    "weakness": "人間不信",
+    "appearance": "ラフな服装・日焼け肌・笑うと目が細くなる",
+    "quirks": [
+      "誰にでもあだ名をつける",
+      "笑顔のまま目だけ笑ってない瞬間がある"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "占部澄人",
+    "occupation": "易者",
+    "mbti": "INFP",
+    "personality": "穏やか・喪失恐怖・静かに依存する",
+    "speech_style": "穏やか丁寧口調・一人称「僕」",
+    "love_style": "友情型＋献身型",
+    "weakness": "喪失恐怖",
+    "appearance": "柔らかい黒髪・淡い色の着物風羽織",
+    "quirks": [
+      "実は結構不運体質",
+      "自分の運勢だけは絶対に占わない"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "甘宮玲",
+    "occupation": "パティシエ",
+    "mbti": "ESTP",
+    "personality": "二面性・掌握型・店内と店外で別人",
+    "speech_style": "店内:柔甘丁寧 / 店外:挑発ラフ",
+    "love_style": "執着型＋現実型",
+    "weakness": "不明",
+    "appearance": "整った顔立ち・甘い香り・店外では無造作ヘア",
+    "quirks": [
+      "猫舌",
+      "実は舌にピアスがある"
+    ]
+  }
+]
