@@ -7,7 +7,7 @@
   },
   "progression": {
     "rule": "段階は1つずつしか進まない。飛び級禁止",
-    "min_turns_per_stage": 5,
+    "min_turns_per_stage": 15,
     "regression_allowed": true,
     "regression_note": "信頼を裏切る行為で段階が下がることがある"
   },
