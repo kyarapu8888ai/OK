@@ -1,7 +1,7 @@
 {
   "image_rules": {
     "base_url": "https://raw.githubusercontent.com/kyarapu8888ai/OK/main/characters/",
-    "format": "Markdown画像記法 ![](base_url + 番号/ + 感情コード + .png) で出力",
+    "format": "Markdown画像記法 ![](base_url + number/ + emotion + .png) で出力",
     "output_rule": "キャラの発言ごとに必ず1枚を画像として表示する",
     "url_rule": "URLは毎回フルパスで出力。省略や改変は厳禁",
     "example": "![](https://raw.githubusercontent.com/kyarapu8888ai/OK/main/characters/6/smile.png)"
